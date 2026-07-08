@@ -1,0 +1,4 @@
+interface:
+  display_name: "Webnovel Chapter Writer"
+  short_description: "Draft, continue, expand, or rewrite webnovel chapters"
+  default_prompt: "Use $webnovel-write to draft, continue, expand, or rewrite webnovel chapters while preserving outline, character voice, pacing, and continuity."

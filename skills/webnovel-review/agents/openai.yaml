@@ -1,0 +1,4 @@
+interface:
+  display_name: "Webnovel Logic Reviewer"
+  short_description: "Timeline, plot-hole, OOC, foreshadowing, and word-count review"
+  default_prompt: "Use $webnovel-review to audit webnovel chapters for timeline conflicts, plot holes, OOC behavior, foreshadowing issues, and chapter word-count risks."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Webnovel Hot Meme Radar"
+  short_description: "Chinese hot memes, platform voice, and male-channel craft notes"
+  default_prompt: "Use $webnovel-hot-memes to adapt Chinese hot memes, platform voice, male-channel webnovel market signals, and reusable craft notes without copying source prose."

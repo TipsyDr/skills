@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Memory"
+  short_description: "加载和沉淀 Obsidian 第二大脑上下文"
+  default_prompt: "Use $obsidian-memory to load my Obsidian second-brain context and save useful conclusions back into the vault."

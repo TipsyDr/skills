@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Loop"
+  short_description: "Run long tasks with contracts, state, logs, and verification."
+  default_prompt: "Use agent-loop for this multi-step task."

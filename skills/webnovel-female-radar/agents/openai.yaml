@@ -1,0 +1,4 @@
+interface:
+  display_name: "Webnovel Female Radar"
+  short_description: "Female-channel emotion, relationship, gufeng, and platform voice notes"
+  default_prompt: "Use $webnovel-female-radar to adapt female-channel webnovel market signals, relationship dynamics, emotional pacing, gufeng references, and platform voice without copying source prose."

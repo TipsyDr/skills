@@ -1,0 +1,4 @@
+interface:
+  display_name: "Webnovel Outline Designer"
+  short_description: "Worldbuilding, character, plot, and chapter outline design"
+  default_prompt: "Use $webnovel-outline to design the worldbuilding, characters, plot arcs, volume outline, chapter outline, and compliance-safe names for this webnovel."

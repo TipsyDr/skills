@@ -1,0 +1,4 @@
+interface:
+  display_name: "Webnovel Prose Polisher"
+  short_description: "Prose, pacing, payoff, and dialogue polishing"
+  default_prompt: "Use $webnovel-polish to polish webnovel prose, tighten pacing, strengthen payoff beats, improve dialogue, and preserve the core plot."

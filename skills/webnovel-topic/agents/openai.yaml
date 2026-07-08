@@ -1,0 +1,4 @@
+interface:
+  display_name: "Webnovel Topic Planner"
+  short_description: "Market-aware concept planning for Chinese webnovels"
+  default_prompt: "Use $webnovel-topic to generate market-aware Chinese webnovel concepts, hooks, golden-finger settings, audience positioning, and risk notes."

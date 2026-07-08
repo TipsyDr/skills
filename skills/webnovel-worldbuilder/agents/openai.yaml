@@ -1,0 +1,4 @@
+interface:
+  display_name: "Webnovel Worldbuilder"
+  short_description: "Full workflow orchestration from idea to final manuscript"
+  default_prompt: "Use $webnovel-worldbuilder to coordinate a full webnovel creation workflow from idea to outline, drafting, review, polish, and finalization."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Webnovel Finalizer"
+  short_description: "Final typo, punctuation, compliance, and export-format checks"
+  default_prompt: "Use $webnovel-finalize to run final technical checks, typo and punctuation review, compliance screening, word-count summaries, and platform-ready export formatting."
